@@ -1,0 +1,5 @@
+secret.txt
+*.log
+temp/
+*.txt
+!important.txt
